@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="46330446-b562-45d2-9c67-0ec859429a73" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Assets/Bubble Gum.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Bubble Gum.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ClickToVelocity.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ClickToVelocity.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Este si es wachooooo.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Este si es wachooooo.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/FirstShader.shadergraph" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/FirstShader.shadergraph.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MeshCollision.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MeshCollision.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MoveCamera.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MoveCamera.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/New Material 1.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/New Material 1.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/New Material.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/New Material.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShootClick.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShootClick.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SoftBody2.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SoftBody2.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SoftBodyMini.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SoftBodyMini.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SoftBodySphere.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SoftBodySphere.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UniversalRenderPipelineAsset.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UniversalRenderPipelineAsset.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UniversalRenderPipelineAsset_Renderer.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UniversalRenderPipelineAsset_Renderer.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/aaaaasdasdasdas.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/aaaaasdasdasdas.png.meta" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1vd9xUUpzCg9NltQO6ZpTYEX0Os" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <created>1626881357218</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1626881357218</updated>
+      <workItem from="1626881378404" duration="21000" />
+    </task>
+    <servers />
+  </component>
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
